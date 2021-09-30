@@ -9,7 +9,7 @@
 ---
 ### My GitHub Contributions    
 
-![](https://raw.githubusercontent.com/flywheel1412/flywheel1412/main/assets/github-contribution-grid-snake.svg)          
+![](https://raw.githubusercontent.com/flywheel1412/flywheel1412/master/assets/github-contribution-grid-snake.svg)          
 
 ### About me      
 
